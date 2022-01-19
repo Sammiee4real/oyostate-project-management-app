@@ -116,37 +116,45 @@
            <li class=" nav-item"><a href="home"><i class="icon-basket-loaded"></i><span class="menu-title" data-i18n="nav.page-checkout">Dashboard</span></a>
           </li>
 
-          <li class=" nav-item"><a href="zones"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Zones</span></a>
-          </li>
-
           <li class=" nav-item"><a href="display_project_markers"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">Project Markers</span></a>
           </li>
 
-           <li class=" nav-item"><a href="project_phases"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Project Phases</span></a>
+          <li class=" nav-item"><a href="#"><i class="icon-screen-tablet"></i><span class="menu-title" data-i18n="nav.templates.main">Views</span></a>
+
+            <ul class = "menu-content">
+
+                  <li class=" nav-item"><a href="zones"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Zones</span></a>
+                  </li>
+
+                  <li class=" nav-item"><a href="project_phases"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Project Phases</span></a>
+                  </li>
+
+                  <li class=" nav-item"><a href="mdas"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View MDAs</span></a>
+                  </li>
+
+                  <li class=" nav-item"><a href="users"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Users</span></a>
+                  </li>
+
+                  <!-- <li class=" nav-item"><a href="#"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">Assigned Users</span></a>
+                  </li>
+                  <li class=" nav-item"><a href="#"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">Unassigned Users</span></a>
+                  </li> -->
+
+                  <li class=" nav-item"><a href="contractors"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Contractors</span></a>
+                  </li>
+                  
+                  <li class=" nav-item"><a href="departments"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Departments</span></a>
+                  </li>
+
+                  <li class=" nav-item"><a href="projects"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Projects</span></a>
+                  </li>
+
+                <!--  <li class=" nav-item"><a href="#"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Milestones</span></a>
+                  </li> -->
+
+            </ul>
           </li>
 
-           <li class=" nav-item"><a href="mdas"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View MDAs</span></a>
-          </li>
-
-           <li class=" nav-item"><a href="users"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Users</span></a>
-          </li>
-
-           <!-- <li class=" nav-item"><a href="#"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">Assigned Users</span></a>
-          </li>
-           <li class=" nav-item"><a href="#"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">Unassigned Users</span></a>
-          </li> -->
-
-           <li class=" nav-item"><a href="contractors"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Contractors</span></a>
-          </li>
-           
-           <li class=" nav-item"><a href="departments"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Departments</span></a>
-          </li>
-
-          <li class=" nav-item"><a href="projects"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Projects</span></a>
-          </li>
-
-         <!--  <li class=" nav-item"><a href="#"><i class="icon-notebook"></i><span class="menu-title" data-i18n="nav.page-pricing">View Milestones</span></a>
-          </li> -->
 
    
           
