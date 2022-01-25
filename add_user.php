@@ -25,7 +25,7 @@ include('layouts/header.php');
 
           <div class="content-header-right col-md-4 col-12">
             <div class="btn-group float-md-right">
-              <button type="submit" class="btn btn-success">All Users <i class="ft-thumbs-up position-right"></i></button>
+              <a href="users"> <button type="submit" class="btn btn-success">All Users <i class="ft-thumbs-up position-right"></i></button></a>
             </div>
           </div>
         </div>
