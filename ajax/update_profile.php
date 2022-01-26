@@ -7,7 +7,7 @@
     
   $unique_id =  $_POST['unique_id'];
   $table = 'users';
-  $data = ['unique_id','onames','address','gender','dob','state','lga','personal_account_no'];
+  $data = ['unique_id','mname','address','gender','dob','state','lga','personal_account_no'];
   //update_data_by_a_param($table,$post,$unique_id);
 
     $update_profile = update_data_by_a_param($table,$data,'unique_id',$unique_id);

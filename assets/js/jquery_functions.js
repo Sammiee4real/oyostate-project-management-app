@@ -9,6 +9,7 @@ $(document).ready(function(){
             submit_form('department_form', 'cmd_add_department', 'Submit', true, 'add_department', 'please wait...', 'Department was successfully created', 'departments');
             submit_form('project_phase_form', 'cmd_add_project_phase', 'Submit', true, 'add_project_phase', 'please wait...', 'Project phase was successfully created', 'project_phases');
             // submit_form('milestones_form', 'zone_name', 'Submit', true, 'add_zones', 'please wait...', 'Zone was successfully created', 'zones');
+            submit_form('update_profile_form', 'cmd_update_profile', 'Submit', true, 'update_profile', 'please wait...', 'Profile was updated succesfully', 'update_profile');
 
 
          
