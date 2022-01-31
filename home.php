@@ -648,6 +648,10 @@ include('layouts/header.php');
                                 <td class="text-truncate"><?php 
                                 echo '&#8358;'.number_format($project['project_amount'],2);     
                                 ?></td>
+                                  <td class="text-truncate"><?php 
+                                   $project_phase = getData('phase_name', 'project_phases', 'unique_id', $project['project_phase']);
+                                   echo $project_phase;                 
+                                ?></td>
                                  <td class="text-truncate"><?php 
                                   echo $project['project_description'];                  
                                 ?></td>
